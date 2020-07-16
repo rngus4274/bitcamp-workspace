@@ -34,3 +34,15 @@
 - > src/main/java/Hello2.java
 - > src/main/java/com/eomcs/basic 폴더 생성
 - > src/main/java/com/eomcs/basic/Hello2.java 생성
+- [x] 패키지 소속 클래스 실행하기
+- > Java -classpath [클래스파일있는폴더][패키지명포험 클래스 이름]
+
+### 4일차
+
+- [x] 소스 파일과 클래스 블록, 클래스 파일의 관계
+- > com.eomcs.basic.ex01 패키지의 예제
+- [x] 주석 종류와 사용법
+- > com.eomcs.basic.ex02 패키지 예제
+  - Hello
+- [x] 자바 언어로 값을 표현하는 문법(literal)
+- > com.eomcs.basic.ex03 패키지 예제
